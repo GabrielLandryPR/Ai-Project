@@ -1,0 +1,2 @@
+CENTRALISE l'affichage des errreurs dans app.vue en écoutant l'événement 
+errors lorsuqe un sous composant lui envoie l'événement errors.
